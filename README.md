@@ -1,4 +1,6 @@
-# :wave: The Basics of GitHub 
+# :wave: Jamie Aleman
+
+
 
 ## 🤓 Course overview and learning outcomes 
 
